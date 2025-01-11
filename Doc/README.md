@@ -67,3 +67,12 @@ web中所有的图片均需要联网获取，感谢 https://maplestory.io 提供
 原服务端中docker相关配置已移除，配置已独立到[新的仓库](https://github.com/BeiDouMS/BeiDou-docker)，且支持[镜像拉取](https://github.com/BeiDouMS/BeiDou-docker/pkgs/container/beidou-server-all)。想参加docker开发，欢迎在新仓库进行pr。  
 [了解更多](https://github.com/BeiDouMS/BeiDou-docker)
 
+# 魔改分支
+
+修改目录结构：
+
+Build-存放客户端，不另外开仓库
+
+Code-存放服务端代码
+
+Doc-存放各种文档
